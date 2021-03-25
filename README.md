@@ -4,6 +4,7 @@ We propose a new method for fast and accurate monocular depth estimation for emb
 
 ## FastDepth Depth-maps with our Encoder:
 ![](imgs/efficientNet_experiment.PNG)
+
 ***Figure:** 1st column: RGB input image, 2nd column: ground truth depth map, 3rd column: generated depth map*
 
 
@@ -14,4 +15,10 @@ We propose a new method for fast and accurate monocular depth estimation for emb
 
 
 ## Using our model to generate 3D images with [3d photo inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting)
+
+<video width="320" height="240" controls>
+  <source src="ReDWeb_dolly_zoom_in.mp4" type="video/mp4">
+</video>
+
+
 ![](https://github.com/CharalambosIoannou/Machine-Learning-Practical-Coursework/blob/main/ReDWeb_dolly_zoom_in.mp4)
