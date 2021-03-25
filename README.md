@@ -20,10 +20,5 @@ We propose a new method for fast and accurate monocular depth estimation for emb
   <source src="ReDWeb_dolly_zoom_in.mp4" type="video/mp4">
 </video>
 
-<figure class="video_container">
-  <iframe src="https://github.com/CharalambosIoannou/Machine-Learning-Practical-Coursework/blob/main/ReDWeb_dolly_zoom_in.mp4" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-
 ![](https://github.com/CharalambosIoannou/Machine-Learning-Practical-Coursework/blob/main/ReDWeb_dolly_zoom_in.mp4)
 
