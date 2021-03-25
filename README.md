@@ -8,10 +8,10 @@ We propose a new method for fast and accurate monocular depth estimation for emb
 ***Figure:** 1st column: RGB input image, 2nd column: ground truth depth map, 3rd column: generated depth map*
 
 
-|                      |      Size| No. Params | Avg. Latency| RMSE |
-|----------------------|------    |------      | ------      |------|
-|Original FastDepth    |31MB    |4M     | 9msecs     |796|
-|EfficientDepth (ours) |40MB    |6.5M      | 23msecs      | 678|
+|                      |      Size| No. Params | Avg. Latency| RMSE (mm) | δ < 1.25 |
+|----------------------|------    |------      | ------      |------ |------|
+|Original FastDepth    |31MB    |4M     | 9msecs     |796| 0.603|
+|EfficientDepth (ours) |40MB    |6.5M      | 23msecs      | 678| 0.688|
 
 
 ## Using our model to generate 3D images with [3d photo inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting)
