@@ -4,8 +4,8 @@ We propose a new method for fast and accurate monocular depth estimation for emb
 
 
 ## FastDepth Depth-maps with our Encoder:
-![](imgs/l2_experiment.PNG)
-
+![](imgs/efficientNet_experiment.PNG)
+***Figure:** 1st column: RGB input image, 2nd column: ground truth depth map, 3rd column: generated depth map*
 
 
 |                      |      Size| No. Params | Avg. Latency| RMSE |
